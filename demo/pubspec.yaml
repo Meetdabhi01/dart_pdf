@@ -29,7 +29,7 @@ dependency_overrides:
   pdf:
     path: ../pdf
   printing:
-    path: ../printing
+    path: ../packages/printing
 
 flutter:
   uses-material-design: true
