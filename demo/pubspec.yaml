@@ -14,7 +14,9 @@ dependencies:
   open_file: ^3.2.1
   path_provider: ^2.0.12
   pdf:
+    path: ../packages/pdf
   printing:
+    path: ../packages/printing
   url_launcher: ^6.1.8
   vector_math: ^2.1.4
 
@@ -27,7 +29,7 @@ dev_dependencies:
 
 dependency_overrides:
   pdf:
-    path: ../pdf
+    path: ../packages/pdf
   printing:
     path: ../packages/printing
 
