@@ -34,14 +34,14 @@ dependencies:
     path: ../pdf
   pdf_widget_wrapper:
     path: ../widget_wrapper
-  plugin_platform_interface: ^2.1.0
-  web: ^1.0.0
+  plugin_platform_interface: ^2.1.8
+  web: ^1.1.1
 
 dev_dependencies:
-  flutter_lints: ^5.0.0
+  flutter_lints: ^6.0.0
   flutter_test:
     sdk: flutter
-  mockito: ^5.4.4
+  mockito: ^5.5.1
 
 dependency_overrides:
   pdf:
